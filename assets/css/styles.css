@@ -32,7 +32,7 @@
   }
 
   .col.col-12{
-    background-color: whitesmoke;
+    background-color: white;
   }
   .container-fluid.explanation{
     background-color: white;
@@ -99,4 +99,9 @@ a:active {
 
 #logo{
     background-color: white;
+}
+
+#amazon-pic{
+    height: 200px;
+    width:400px;
 }
