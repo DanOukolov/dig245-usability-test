@@ -11,7 +11,10 @@
 .container-fluid.nav-bar{
     background-color:white;
     position: fixed;
-    top: 0;
+}
+
+#nav{
+  background-color: white;
 }
 .block {
     color: white;
