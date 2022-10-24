@@ -26,22 +26,20 @@
     border-radius: 8px;
 }
 
-  .block.hover:hover{
+.hover:hover{
     background-color:orange;
   }
 
-  .col.col-12{
-    background-color: white;
-  }
-  .container-fluid.explanation{
+.explanation{
     background-color: white;
   }
 
-  .explanation{
+.explanation{
     text-align: center;
     font-family:'Times New Roman', Times, serif;
     padding-top: 30px;
   }
+
   #explanationOne,#explanationTwo{
     border-radius: 8px;
     background-color: white;
@@ -51,28 +49,28 @@
     box-shadow: 5px 10px orange;
     }
 
-    .container-fluid.footer{
+.footer{
         background-color:black;
         margin-top: 50px;
         color: white;
     }
 
-    .container.text{
+.text{
         text-align: left;
-    }
+}
 
-    #mom{
+#mom{
         height: 255px;
         width: 240px
     }
 
-    container.success{
+.success{
         background-color: green;
         border-radius: 4px;
         padding: 5px;
     }
 
-    container.failure{
+.failure{
         background-color: red;
         border-radius: 4px;
         padding: 5px;
